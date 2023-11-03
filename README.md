@@ -1,4 +1,8 @@
 # Home_Sales
+
+![image](https://github.com/imanmalih/Home_Sales/assets/128860080/3ff0c46f-5af2-405f-a873-30a35a171b91)
+
+
 ## Overview
 
 We used our knowledge of SparkSQL to determine key metrics about home sales data. Then, we used Spark to create temporary views, partition the data, cache and uncache a temporary table, and verify that the table has been uncached.
